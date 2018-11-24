@@ -1,3 +1,5 @@
 # Server-Client Counter App
 
-An example of how to set up a connection between a Reagent client and Compojure backend in development, and serve the client production build as a static resource.
+An simple, crude example of how to set up a connection between a Reagent client and Compojure backend in development, and serve the client production build as a static resource.
+
+For a better example, using a Ring Handler, see: [I'm an inline-style link] https://github.com/p-adams/clj-cljs-counter-example
